@@ -1,0 +1,25 @@
+2023-08-06 06:59:03.750135 - Initialized conversion of CBT769
+2023-08-06 06:59:04.041210 - Received CBT.V505.FILE769.PDS from FILE769.XMI 
+2023-08-06 06:59:04.043665 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:59:04.044822 - Found $$$INDEX.txt (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/$$$INDEX
+2023-08-06 06:59:04.045823 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:59:04.046881 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/$$NOTE2
+2023-08-06 06:59:04.047851 - Found $$README.txt (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/$$README
+2023-08-06 06:59:04.048778 - Found @FILE769.txt (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/@FILE769
+2023-08-06 06:59:04.049804 - Found EHIASM.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/EHIASM
+2023-08-06 06:59:04.050763 - Found EHICOBOL.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/EHICOBOL
+2023-08-06 06:59:04.051633 - Found EHIHELP.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/EHIHELP
+2023-08-06 06:59:04.052701 - Found EHIJCL.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/EHIJCL
+2023-08-06 06:59:04.053678 - Found EHINONE.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/EHINONE
+2023-08-06 06:59:04.054762 - Found EHIPAN.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/EHIPAN
+2023-08-06 06:59:04.055717 - Found EHIPLI.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/EHIPLI
+2023-08-06 06:59:04.056589 - Found EHIREXX.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/EHIREXX
+2023-08-06 06:59:04.057533 - Found EHISUPC.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/EHISUPC
+2023-08-06 06:59:04.058525 - Found EHISUPP.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/EHISUPP
+2023-08-06 06:59:04.059419 - Found EHIXMIT.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/EHIXMIT
+2023-08-06 06:59:04.060253 - Found EHIZIP.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/EHIZIP
+2023-08-06 06:59:04.060263 - Found EPANQ.bin containing application/octet-stream, moved to PDS/EPANQ
+2023-08-06 06:59:04.062203 - Found GETVAR.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/GETVAR
+2023-08-06 06:59:04.063181 - Found GPLV3.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/GPLV3
+2023-08-06 06:59:04.064100 - Found MAKECBT.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/MAKECBT
+2023-08-06 06:59:04.065023 - Found QH.rexx (text/plain) in CBT.V505.FILE769.PDS, moved to PDS/QH
